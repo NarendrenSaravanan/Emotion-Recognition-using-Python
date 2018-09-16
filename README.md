@@ -11,8 +11,8 @@ The project was done long back so it would be working properly only if you insta
 #Python Version used for project - 2.7.13 (32 bit version)
 1. CMAKE - 0.6.0 (install using pip)
 2. DLIB - 18.17.100(install using pip)
-3. NUMPY - https://sourceforge.net/projects/numpy/files/NumPy/1.10.0/numpy-1.10.0-win32-superpack-python2.7.exe/download
-4. OPENCV - https://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv (Download the first file - opencv_python‑2.4.13.5‑cp27‑cp27m‑win32.whl)
+3. NUMPY - https://sourceforge.net/projects/numpy/files/NumPy/1.10.0/numpy-1.10.0-win32-superpack-python2.7.exe/download (Download the file and install using pip)
+4. OPENCV - https://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv (Download the first file - opencv_python‑2.4.13.5‑cp27‑cp27m‑win32.whl and install using pip)
 5. PYGAME - 1.9.3 (install using pip)
 
 ### Detecting Different facial expressions:
